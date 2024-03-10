@@ -3,40 +3,21 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Soham's Profile</title>
-  <style>
-    @keyframes slideInFromLeft {
-      0% { transform: translateX(-100%); opacity: 0; }
-      100% { transform: translateX(0); opacity: 1; }
-    }
 
-    @keyframes fadeIn {
-      0% { opacity: 0; }
-      100% { opacity: 1; }
-    }
-
-    .animated-heading {
-      animation: slideInFromLeft 1s ease-out forwards;
-    }
-
-    .animated-name {
-      animation: fadeIn 1s ease-in-out forwards;
-    }
-  </style>
 </head>
 <body>
 
-<h1 class="animated-heading" align="left">👋 Hey there!</h1>
+<h1 align="left">👋 Hey there!</h1>
 
 <hr>
 
-<p align="left">Greetings! I'm <span class="animated-name">Soham</span>, an Explorer hailing from Maharashtra.</p>
+<p align="left">Greetings! I'm Soham, an Explorer hailing from Maharashtra.</p>
 
 <hr>
 
 <h2 align="left">About Me</h2>
 
-<p align="left">✨ Crafting bugs <br>📚 Currently diving into C++ and Cybersecurity<br>🎯 Goal: Mastering the art of Full Stack Development<br>🎲 Fun Fact: I'm the ultimate fusion of bytes and barbells, coding defenses by day and capturing culinary creations and captivating landscapes by night! 📸💻🍳💪</p>
+<p align="left">✨ Crafting bugs since 2022<br>📚 Currently diving into C++ and Cybersecurity<br>🎯 Goal: Mastering the art of Full Stack Development<br>🎲 Fun Fact: I'm the ultimate fusion of bytes and barbells, coding defenses by day and capturing culinary creations and captivating landscapes by night! 📸💻🍳💪</p>
 
 <hr>
 
